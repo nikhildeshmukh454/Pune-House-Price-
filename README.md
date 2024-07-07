@@ -41,7 +41,7 @@ To run this project locally, follow these steps:
 - Deploy the application to a cloud platform for broader accessibility.
 
 ## Authors
-- [Your Name] - [GitHub Profile](https://github.com/nikhildeshmukh454)
+- Nikhil Deshmukh - [GitHub Profile](https://github.com/nikhildeshmukh454)
 
 ## Acknowledgments
 - Mention any resources or acknowledgments you want to include.
