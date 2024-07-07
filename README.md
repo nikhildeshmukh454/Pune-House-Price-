@@ -43,5 +43,4 @@ To run this project locally, follow these steps:
 ## Authors
 - Nikhil Deshmukh - [GitHub Profile](https://github.com/nikhildeshmukh454)
 
-## Acknowledgments
-- Mention any resources or acknowledgments you want to include.
+
